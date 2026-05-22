@@ -1,12 +1,12 @@
 # Introduction to Giraffe Gobble!
-Giraffe Gobble 
+Giraffe Gobble feature a user-controlled Giraffe character that survives by moving left and right to catch falling leaves. The leaves allow the giraffe to purchase speed boosts and move faster, but watch out! The giraffe has to simultaneously dodge falling rocks which reduce lives! If the giraffe loses all three lives, it dies! Apricots can also be caught and eaten in order to have temporary immunity boosts (meaning immunity from falling rocks).
 
 # What does Giraffe Gobble! do?
-- Edit `index.md` to customize your homepage.  
-- Add reflections in the `posts/` folder after completing each unit or project.
-- [optional] You may also write additional reflections whenever you like.
-- Put images(e.g.,screenshots of your work) in the `assets/` folder. You can reference images like `![Alt text](./assets/my-image.png)`.
-- Commit your changes, then refresh your GitHub Pages site to see updates.
+- Giraffe Gobble! is a fantastic game where players control a giraffe and help it survive as long as possible
+- Catching leaves increases the player's score and allows speed upgrades!
+- Falling rocks must be avoided because they reduce lives (players start with 3 lives)
+- Apricots provide temporary immunity from rocks!
+- The game becomes more challenging as objects continuously fall without end!
 
 # How to Run Giraffe Gobble!
 - Go to your repository → **Settings** (top navigation bar) → **Pages**(left panel).
